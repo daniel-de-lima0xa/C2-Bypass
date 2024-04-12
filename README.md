@@ -1,6 +1,4 @@
-# Socket Server Interaction
-
-Este projeto consiste em um programa Python para interagir com servidores remotos usando sockets.
+# Este projeto consiste em um programa Python para interagir com servidores remotos usando sockets.
 
 ## Funcionalidades
 
