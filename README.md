@@ -19,5 +19,4 @@ Para utilizar este servidor, basta executar o script Python `socket_server.py`. 
 ```bash
 python socket_server.py
 
-```bash
 python socket_implante.py
