@@ -16,13 +16,15 @@ Este projeto consiste em um servidor socket implementado em Python para interaç
 
 Para utilizar este servidor, basta executar o script Python `socket_server.py`. Certifique-se de ter o Python instalado em seu sistema.
 
+```bash
+python socket_server.py
+
+python socket_implante.py
+
+
 ## Demonstração
 
 ![EDR](https://github.com/daniel-de-lima0xa/TelegramBotHub/assets/59209081/0c4044de-f03b-465e-8a04-84e5c97a10e1)
 
 
 
-```bash
-python socket_server.py
-
-python socket_implante.py
