@@ -1,22 +1,23 @@
 # Socket Server Interaction
 
-Este projeto consiste em um servidor socket implementado em Python para interação com clientes remotos. Ele oferece suporte a conexões em duas portas diferentes e permite que os clientes enviem comandos PowerShell criptografados para serem executados no servidor.
+This project consists of a socket server implemented in Python for interacting with remote clients. It supports connections on two different ports and allows clients to send encrypted PowerShell commands to be executed on the server.
 
-## Funcionalidades
+## Features
 
-- **Conexão Remota**: Conectar-se a servidores remotos especificando um endereço IP e porta.
-- **Execução de Comandos PowerShell**: Executar comandos PowerShell no servidor remoto.
-- **Gerenciamento de Sessões em Segundo Plano**: Deixar sessões em segundo plano para retomá-las posteriormente.
-- **Listagem de Sessões Ativas**: Listar sessões em segundo plano, incluindo informações como endereço IP e porta.
-- **Encerramento de Conexão**: Encerrar a conexão com o servidor remotamente.
-- **Interagir com Sessões em Segundo Plano**: Escolher uma sessão em segundo plano para interagir.
-- **Escuta de Conexões de Qualquer Origem**: Escutar conexões de qualquer origem em um servidor local.
+- **Remote Connection**: Connect to remote servers by specifying an IP address and port.
+- **PowerShell Command Execution**: Execute PowerShell commands on the remote server.
+- **Background Session Management**: Maintain sessions in the background for later resumption.
+- **Active Session Listing**: List sessions in the background, including information such as IP address and port.
+- **Connection Termination**: Terminate the connection with the server remotely.
+- **Interaction with Background Sessions**: Choose a background session to interact with.
+- **Listening for Connections from Any Source**: Listen for connections from any source on a local server.
 
-## Uso
+## Usage
 
-Para utilizar este servidor, basta executar o script Python `socket_server.py`. Certifique-se de ter o Python instalado em seu sistema.
+To use this server, simply execute the Python script `socket_server.py`. Make sure you have Python installed on your system.
 
-## Demonstração
+## Demonstration
+
 
 ![EDR](https://github.com/daniel-de-lima0xa/TelegramBotHub/assets/59209081/0c4044de-f03b-465e-8a04-84e5c97a10e1)
 
